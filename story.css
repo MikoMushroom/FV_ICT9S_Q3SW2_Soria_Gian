@@ -1,0 +1,83 @@
+body
+{
+	background-image: url(cheese.png)
+}
+
+table
+{
+	padding: 30px
+	background-image: url(paper.png);
+	border-top-width: 30px;
+	border-top-color:#e84141;
+}
+
+h3
+{
+	color: #f5f5f5
+}
+
+td
+{
+	padding: 25px
+}
+
+h4
+{
+		color: #424242;
+}
+.container
+{
+	background-color: #e84141;
+	padding:15px;
+	border-radius: 15px 15px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+	<div class="row">
+		<div class="col-4">
+			<h3> NAME: </h3>
+			<input class="form-control" type="text" name="huh">
+		</div>
+
+		<div class="col-4">
+			<h3> PET: </h3>
+			<select class="form-control">
+				<option>meow</option>
+				<option>meow</option>
+				<option>meow</option>
+		</div>
+	</div>
+</div>
+
+
+	<div class="container">
+		<div class="row">
+			<div class="row">
+				
+					<div class="col-4">
+
+					</div>
+			</div>
+		</div>
+	</div>
+	
